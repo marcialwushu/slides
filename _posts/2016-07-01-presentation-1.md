@@ -2,7 +2,7 @@
 title: Presentation 1
 layout: post
 permalink: /presentation-1/
-background: '#0a5'
+background: '/images/pattern.png'
 slides:
  - title: Slide 1
    slide-data: This is first slide
@@ -11,7 +11,7 @@ slides:
    slide-data: This is second slide
 
  - title: Slide 3
-   slide-data: image: '/images/pattern.png'
+   slide-data: 
    image: '/images/pattern.png'
   
 ---
