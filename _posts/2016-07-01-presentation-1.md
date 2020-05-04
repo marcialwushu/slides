@@ -12,7 +12,7 @@ slides:
 
  - title: Slide 3
    slide-data: 
-   image: '/images/pattern.png'
+   image: './images/pattern.png'
   
 ---
 
