@@ -11,7 +11,7 @@ slides:
    slide-data: This is second slide
 
  - title: Slide 3
-   slide-data: delete-github-branch
+   slide-data: image: '/images/pattern.png'
    image: '/images/pattern.png'
   
 ---
