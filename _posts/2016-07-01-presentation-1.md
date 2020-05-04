@@ -12,6 +12,7 @@ slides:
 
  - title: Slide 3
    slide-data: delete-github-branch
+   image: '/images/pattern.png'
   
 ---
 
